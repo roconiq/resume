@@ -1,4 +1,3 @@
-<!--
 # 프로필 <img src="http://i.imgur.com/4CUraQH.jpg" title="source: imgur.com" width="150" height="200" align="right"/>
 * 성명: 권심원
 * 나이: 만35세
@@ -293,4 +292,3 @@
 
 
 [back to top](#readme)
---!>
